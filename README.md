@@ -1,4 +1,4 @@
-Coffee Sales Trends Dashboard
+COFFE SALES TRENDS DASHBOARD 
 
 Project Overview
 
