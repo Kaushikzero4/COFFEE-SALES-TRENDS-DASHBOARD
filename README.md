@@ -1,10 +1,10 @@
 Coffee Sales Trends Dashboard
 
-📊 Project Overview
+Project Overview
 
 This project analyzes coffee sales data and presents insights through an interactive dashboard. The dashboard highlights sales performance, top-selling and least-selling products, revenue distribution, and transaction patterns across time and locations.
 
-🚀 Key Features
+ Key Features
 
 KPIs:
 
@@ -45,7 +45,7 @@ Transactions peak around 9–10 AM (27K).
 
 Sales grow steadily from January (25K) to June (51K).
 
-📌 Insights
+ Insights
 
 Morning Rush: Most transactions happen between 8–10 AM, showing strong morning demand.
 
